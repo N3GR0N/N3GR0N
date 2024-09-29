@@ -8,45 +8,41 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N3GR0N&theme=algolia" alt="N3GR0N"  /></p>
-<br>
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=N3GR0N&show_icons=true))
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N3GR0N&theme=tokyonight-duo" alt="N3GR0N"  /></p>
+
+#### More Stats
+
+<details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N3GR0N&show_icons=true&theme=tokyonight&border_color=474554" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3GR0N&layout=compact&theme=tokyonight&border_color=474554" height="150"/>
+</div>
+</details>
 
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-</p>
+ 
+  [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+
 
 ### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-</p>
+### 👉 Software & Tools
+   [![My Skills](https://skillicons.dev/icons?i=vscode,vim,gitlab,github,git,discord,eclipse,bash)](https://skillicons.dev)
 
-## 🙋‍♀️ Let's Connect
+## 🙋🏾‍♂️ Let's Connect
 
+  <br/> 
+<p align="center">
+<a href="https://x.com/Juansuer2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnadev_v_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suñer-juan-pedro-299808290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnadevv" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sunerjuann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnadev_v" height="30" width="40" /></a>
+</p>  
+<br/> 
 
 <hr/>
 
