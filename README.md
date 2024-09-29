@@ -4,12 +4,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Hola, soy estudiante de Sistemas Me interesa todo lo relacionado con Inteligencia Artificial y Bases de Datos. Disfruto del trabajo en equipo y creo que colaborar con otros potencia nuestras habilidades y resultados. Estoy siempre abierto a aprender nuevas tecnologías y contribuir a proyectos interesantes. ¡Sigue mi perfil para ver mis proyectos y aprendizajes.</h4>
+<h4 align="center">Hello, I am a Systems student. I am interested in everything related to Artificial Intelligence and Databases. I enjoy teamwork and believe that collaborating with others enhances our skills and results. I am always open to learning new technologies and contributing to interesting projects. Follow my profile to see my projects and learning.</h4>
 <br>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N3GR0N&theme=algolia" alt="N3GR0N"  /></p>
-
+<br>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=N3GR0N&show_icons=true))
 
 ## 🛠️ My Skills
 
