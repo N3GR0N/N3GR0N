@@ -8,7 +8,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan Suñer&theme=algolia" alt="Juan Suñer"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N3GR0N&theme=algolia" alt="N3GR0N"  /></p>
 
 
 ## 🛠️ My Skills
