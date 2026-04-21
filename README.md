@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunerjuan240@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/su%C3%B1er-juan-pedro-299808290/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Juansuer2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juannsuner/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunerjuann/)
 
 </div>
 
@@ -52,14 +52,12 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N3GR0N&theme=tokyonight-duo)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=N3GR0N&show_icons=true&count_private=true&theme=tokyonight&border_color=474554" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3GR0N&layout=compact&count_private=true&theme=tokyonight&border_color=474554" height="150"/>
 
-<details>
-<summary>📈 Más estadísticas</summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=N3GR0N&show_icons=true&theme=tokyonight&border_color=474554" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3GR0N&layout=compact&theme=tokyonight&border_color=474554" height="150"/>
-</details>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=N3GR0N&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
