@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunerjuan240@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/su%C3%B1er-juan-pedro-299808290/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Juansuer2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sunerjuann/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juannsuner/)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 *"Collaborating with others enhances our skills and results."*
 
-**[N3GR0N](https://github.com/N3GR0N)** · 2025
+**[N3GR0N](https://github.com/N3GR0N)** · 2026
 
 </div>
 
