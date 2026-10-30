@@ -32,7 +32,7 @@
 
 </td>
 <td align="center" width="300">
-<img src="assets/orbit.svg" width="280" alt="Órbita animada" />
+<img src="assets/god.gif" width="280" alt="Órbita animada" />
 </td>
 </tr>
 </table>
