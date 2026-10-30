@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Bienvenido al GitHub de Juan Pedro" />
+<img src="assets/flow.gif" width="100%" alt="Bienvenido al GitHub de Juan Pedro" />
 
 <br/>
 
